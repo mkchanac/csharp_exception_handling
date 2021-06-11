@@ -1,0 +1,6 @@
+C:\Users\unite\source\repos\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe.config
+C:\Users\unite\source\repos\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe
+C:\Users\unite\source\repos\Lab8_4\Lab8_4\bin\Debug\Lab8_4.pdb
+C:\Users\unite\source\repos\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\Lab8_4\Lab8_4\obj\Debug\Lab8_4.exe
+C:\Users\unite\source\repos\Lab8_4\Lab8_4\obj\Debug\Lab8_4.pdb
